@@ -1,0 +1,62 @@
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descripción de Pinterest 2.0">
+    <meta name="keywords" content="Pinterest, Compartir, Imágenes">
+    <title>Pinterest 2.0</title>
+    <link rel="canonical" href="http://pinterest.es">
+    <link rel="icon" href="https://static-00.iconduck.com/assets.00/pinterest-icon-2048x2048-d7p0u7c5.png" type="image/x-icon">
+ </head>
+
+<body>
+    <header>
+      <nav>
+        <a href="/" class="logo">Pinterest 2.0</a>
+        <ul>
+          <li><a href="/Hoy">Hoy</a></li>
+          <li><a href="/Explorar">Explorar</a></li>
+          <li><a href="/Info">Info</a></li>
+          <li><a href="/Empresa">Empresa</a></li>
+          <li><a href="/Blog">Blog</a></li>
+        </ul>
+        <a href="formulario de registro.php" target="_blank"><input type="button" value="Registrarse"></a>
+        <a href="destino.php"><input type="button" value="Iniciar Sesión"></a>
+      </nav>
+    </header>
+    <main>
+      <section id="Gatos">
+        <h1>Imágenes de Gatos</h1>
+        <article>
+          <a href="https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1600&amp;h=1067">
+            <img src="https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.jpg?w=1600&amp;h=1067" alt="Gato con cara de enfadado" loading="lazy" width="300" height="200">
+            <h2>Gato Gris Enfadado</h2>
+          </a>
+        </article>
+        <article>
+          <a href="https://www.abc.es/xlsemanal/wp-content/uploads/sites/5/2023/10/como-entender-gatos-animales.jpg">
+            <img src="https://www.abc.es/xlsemanal/wp-content/uploads/sites/5/2023/10/como-entender-gatos-animales.jpg" alt="Gato sacando la lengua" loading="lazy" width="300" height="200">
+            <h2>Gato Naranja Sacando la Lengua</h2>
+          </a>
+        </article>
+        <article>
+          <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maine_Coon_male_NO_Sigdalskauen_Balder.jpg/1200px-Maine_Coon_male_NO_Sigdalskauen_Balder.jpg">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maine_Coon_male_NO_Sigdalskauen_Balder.jpg/1200px-Maine_Coon_male_NO_Sigdalskauen_Balder.jpg" alt="Gato gigante Maine Coon" loading="lazy" width="300" height="200">
+            <h2>Maine Coon, Gato Gigante</h2>
+          </a>
+        </article>
+      </section>
+      <section id="Categorías">
+        <h1>Otras Categorías</h1>
+        <ul>
+          <li><a href="/categoria/perros">Perros</a></li>
+          <li><a href="/categoria/espacio">Espacio</a></li>
+          <li><a href="/categoria/comida">Comida</a></li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>© Pinterest 2.0 2024. Derechos reservados</p>
+    </footer>
+  
+</body>
